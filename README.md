@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @TarekH426
-- 👀 I’m interested in the backend development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning .NET
 - 📫 How to reach me thesham426@gmail.com
 
 
+[Tarek_Hesham_CV.pdf](https://github.com/user-attachments/files/21842304/Tarek_Hesham_CV.pdf)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tarek-hesham-b725a12b6) 
